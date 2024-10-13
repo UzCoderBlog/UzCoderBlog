@@ -16,14 +16,12 @@ DefaultContentLanguage: ru
 
 languages:
   ru:
-    languageName: Русский
     title: Картавый Программист 
+    languageName: Русский
     weight: 1
     contentDir: content/
     params:
       description: ru descript
-      ogDescription: "Плейбой, Филантроп, будущий Миллионер и просто Гений"
-      ogImage: "img/Avatar/site_main_image.png"
       sidebar:
         emoji: 🇷🇺
         subtitle: Плейбой, Филантроп, будущий Миллионер и просто Гений
@@ -34,14 +32,12 @@ languages:
     copyright: Айдер Нурмухаммедов
 
   en:
-    languageName: English
     title: Left 4 Code
+    languageName: English
     weight: 2
     contentDir: content/
     params:
       description: en descript
-      ogDescription: "A Playboy, a Philanthropist, a future Millionaire and just a Genius"
-      ogImage: "img/Avatar/site_main_image.png"
       sidebar:
         emoji: 🇺🇸
         subtitle: A Playboy, a Philanthropist, a future Millionaire and just a Genius
@@ -52,14 +48,12 @@ languages:
     copyright: Ayder Nurmuhammedov
  
   uz:
-    languageName: O'zbekcha
     title: UzCoder-Blog
+    languageName: O'zbekcha
     weight: 3
     contentDir: content/
     params:
       description: uz description
-      ogDescription: "Playboy, Filantrop, bo'lajak Millioner va shunchaki Daho"
-      ogImage: "img/Avatar/site_main_image.png"
       sidebar:
         emoji: 🇺🇿
         subtitle: Playboy, Filantrop, bo'lajak Millioner va shunchaki Daho
