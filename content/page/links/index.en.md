@@ -42,9 +42,6 @@ menu:
             icon: link
 
 comments: true
-noIndex: false
-robots: "index"    # Укажите, что страница должна индексироваться
-draft: false       # Если страница уже опубликована
 ---
 
 All useful links

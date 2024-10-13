@@ -42,7 +42,6 @@ menu:
             icon: link
 
 comments: true
-noIndex: false
 ---
 
 Barcha foydali havolalar

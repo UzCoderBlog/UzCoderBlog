@@ -15,9 +15,6 @@ menu:
             icon: user
 image: 'img/About.jpg'
 comments: false
-noindex: false
-robots: "index"    # Укажите, что страница должна индексироваться
-draft: false       # Если страница уже опубликована
 ---
 
 Hello **friend**. Welcome to my website.

@@ -33,7 +33,7 @@ languages:
 
   en:
     languageName: English
-    title: My Website
+    title: Left 4 Code
     weight: 2
     contentDir: content/
     params:

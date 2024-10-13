@@ -8,7 +8,4 @@ menu:
         weight: -50
         params: 
             icon: archives
-noIndex: false
-robots: "index"    # Укажите, что страница должна индексироваться
-draft: false       # Если страница уже опубликована
 ---

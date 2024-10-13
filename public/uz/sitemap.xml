@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://uzcoderblog.github.io/uz/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://uzcoderblog.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://uzcoderblog.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uz"
-                href="https://uzcoderblog.github.io/uz/"
-                />
-  </url><url>
     <loc>https://uzcoderblog.github.io/uz/tags/about-blog/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -180,6 +162,24 @@
                 rel="alternate"
                 hreflang="uz"
                 href="https://uzcoderblog.github.io/uz/tags/"
+                />
+  </url><url>
+    <loc>https://uzcoderblog.github.io/uz/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://uzcoderblog.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uzcoderblog.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uz"
+                href="https://uzcoderblog.github.io/uz/"
                 />
   </url><url>
     <loc>https://uzcoderblog.github.io/uz/havolalar/</loc>

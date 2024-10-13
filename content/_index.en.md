@@ -5,7 +5,6 @@ menu:
         weight: -100
         params:
             icon: home
-noIndex: false
-robots: "index"    # Укажите, что страница должна индексироваться
-draft: false       # Если страница уже опубликована
+title: Left 4 Code
+description: A Playboy, a Philanthropist, a future Millionaire and just a Genius
 ---

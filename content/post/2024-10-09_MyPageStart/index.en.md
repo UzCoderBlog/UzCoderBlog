@@ -10,9 +10,6 @@ tags = [
     "About Blog",
 ]
 image = "maxresdefault.jpg"
-noindex = false
-robots = "index"    # Укажите, что страница должна индексироваться
-draft = false       # Если страница уже опубликована
 +++
 
 
