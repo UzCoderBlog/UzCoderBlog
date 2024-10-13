@@ -1,13 +1,13 @@
 ---
+title: UzCoder-Blog
+description: Playboy, Filantrop, bo'lajak Millioner va shunchaki Daho
 menu:
     main:
         name: Asosiy Sahifa
         weight: -100
         params:
             icon: home
-title: UzCoder-Blog
-description: Playboy, Filantrop, bo'lajak Millioner va shunchaki Daho
-image: "/favicon.png"
+image: "img/Avatar/site_main_image.png"
 ---
 **UzCoder-Blog**
 <br />
