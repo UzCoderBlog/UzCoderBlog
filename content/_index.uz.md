@@ -7,7 +7,7 @@ menu:
         weight: -100
         params:
             icon: home
-image: "img/Avatar/site_main_image.png"
+image: "site_main_image.png"
 ---
 **UzCoder-Blog**
 <br />
