@@ -7,7 +7,7 @@ menu:
         weight: -100
         params:
             icon: home
-image: "site_main_image.png"
+image: "{{ .Site.Params.ogImage }}"  # Используйте параметр из hugo.yaml
 ---
 **Картавый Программист**
 <br />

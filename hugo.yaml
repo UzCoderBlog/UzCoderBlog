@@ -22,6 +22,8 @@ languages:
     contentDir: content/
     params:
       description: ru descript
+      ogDescription: "Плейбой, Филантроп, будущий Миллионер и просто Гений"
+      ogImage: "img/Avatar/site_main_image.png"
       sidebar:
         emoji: 🇷🇺
         subtitle: Плейбой, Филантроп, будущий Миллионер и просто Гений
@@ -38,6 +40,8 @@ languages:
     contentDir: content/
     params:
       description: en descript
+      ogDescription: "A Playboy, a Philanthropist, a future Millionaire and just a Genius"
+      ogImage: "img/Avatar/site_main_image.png"
       sidebar:
         emoji: 🇺🇸
         subtitle: A Playboy, a Philanthropist, a future Millionaire and just a Genius
@@ -54,6 +58,8 @@ languages:
     contentDir: content/
     params:
       description: uz description
+      ogDescription: "Playboy, Filantrop, bo'lajak Millioner va shunchaki Daho"
+      ogImage: "img/Avatar/site_main_image.png"
       sidebar:
         emoji: 🇺🇿
         subtitle: Playboy, Filantrop, bo'lajak Millioner va shunchaki Daho
@@ -103,8 +109,7 @@ params:
         published: Jan 02, 2006
         lastUpdated: Jan 02, 2006 15:04 MST
 
-    
-
+  
 
     article:
         math: false
