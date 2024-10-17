@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Left 4 Code</title>
-        <link>https://uzcoderblog.github.io/en/categories/</link>
+        <link>http://localhost:1313/en/categories/</link>
         <description>Recent content in Categories on Left 4 Code</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Ayder Nurmuhammedov</copyright>
-        <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://uzcoderblog.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Blog</title>
-        <link>https://uzcoderblog.github.io/en/categories/about-blog/</link>
+        <link>http://localhost:1313/en/categories/about-blog/</link>
         <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://uzcoderblog.github.io/en/categories/about-blog/</guid>
-        <description>&lt;img src="https://uzcoderblog.github.io/en/categories/about-blog/About%20Blog.jpg" alt="Featured image of post About Blog" /&gt;</description>
+        <guid>http://localhost:1313/en/categories/about-blog/</guid>
+        <description>&lt;img src="http://localhost:1313/en/categories/about-blog/About%20Blog.jpg" alt="Featured image of post About Blog" /&gt;</description>
         </item>
         
     </channel>
