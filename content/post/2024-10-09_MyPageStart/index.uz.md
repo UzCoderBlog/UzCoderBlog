@@ -9,7 +9,7 @@ categories = [
 tags = [
     "About Blog",
 ]
-image = "maxresdefault.jpg"
+image = "2024-10-09.jpg"
 +++
 
 

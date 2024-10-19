@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Картавый Программист</title>
-        <link>https://uzcoderblog.github.io/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on Картавый Программист</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ru</language>
         <copyright>Айдер Нурмухаммедов</copyright>
-        <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://uzcoderblog.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Blog</title>
-        <link>https://uzcoderblog.github.io/categories/about-blog/</link>
-        <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:1313/categories/about-blog/</link>
+        <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://uzcoderblog.github.io/categories/about-blog/</guid>
-        <description>&lt;img src="https://uzcoderblog.github.io/categories/about-blog/About%20Blog.jpg" alt="Featured image of post About Blog" /&gt;</description>
+        <guid>http://localhost:1313/categories/about-blog/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/about-blog/About%20Blog.jpg" alt="Featured image of post About Blog" /&gt;</description>
         </item>
         
     </channel>
