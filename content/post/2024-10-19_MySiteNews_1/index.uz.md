@@ -14,13 +14,13 @@ image = "2024-10-19_1.png"
 
 
 
-<span style='font-size:2rem; white-space: pre'>Quyoshli O'zbekistondan salom, do'stlar.</span>
+Serquyosh O'zbekistondan salom, do'stlar.
 <br />
-<span style='white-space: pre'>Nihoyat, o'z saytimi Yandex va Google qidiruvida chiqarishga muvaffaq bo'ldim. Bu qiziqarli tajriba bo'ldi. Saytga yoki hostingga bir tiyin ham sarflamaganligimni hisobga olsak. Hatto qidiruv tizimlarida chiqishi hech qanday muammosiz bo'ldi.</span>
+Nihoyat, o'z saytimi Yandex va Google qidiruvida chiqarishga muvaffaq bo'ldim. Bu qiziqarli tajriba bo'ldi. Saytga yoki hostingga bir tiyin ham sarflamaganligimni hisobga olsak. Hatto qidiruv tizimlarida chiqishi hech qanday muammosiz bo'ldi.
 <br />
-<span style='white-space: pre'>Saytda keyingi postda va Youtube kanallarimdagi videoda qanday qilishni tushuntiraman. Buni istagan har qanday odam qila oladi. Sayt layoutini o'rganayotgan yangi boshlovchilar uchun bu juda qulay bo'ladi.</span>
+Saytda keyingi postda va Youtube kanallarimdagi videoda qanday qilishni tushuntiraman. Buni istagan har qanday odam qila oladi. Sayt layoutini o'rganayotgan yangi boshlovchilar uchun bu juda qulay bo'ladi.
 <br />
-<span style='white-space: pre'>Aytgancha, agar siz faol sahifalarni qidiruv tizimida ko'rsatmoqchi bo'lsangiz, bu yerga <b>site:uzcoderblog.github.io</b> ni kiriting</span>
+Aytgancha, agar siz faol sahifalarni qidiruv tizimida ko'rsatmoqchi bo'lsangiz, bu yerga <b>site:uzcoderblog.github.io</b> ni kiriting
 
 | Yandex pics                         | Google pics                            |
 | ----------------------------------- | ----------------------------------- |

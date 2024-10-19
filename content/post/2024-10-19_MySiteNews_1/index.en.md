@@ -13,13 +13,13 @@ image = "2024-10-19_1.png"
 +++
 
 
-<span style='font-size:2rem; white-space: pre'>Hello from sunny Uzbekistan, friends.</span>
+Hello from sunny Uzbekistan, friends.
 <br />
-<span style='white-space: pre'>I finally managed to get my website indexed in Yandex and Google search. It was an interesting experience. Considering that I didn't spend a dime on the site or hosting. Even getting it indexed by search engines went without a hitch.</span>
+I finally managed to get my website indexed in Yandex and Google search. It was an interesting experience. Considering that I didn't spend a dime on the site or hosting. Even getting it indexed by search engines went without a hitch.
 <br />
-<span style='white-space: pre'>In the next post on the website and in a video on my Youtube channels, I will explain how to do this. Anyone interested can handle it. For beginners learning website layout, this will be perfect.</span>
+In the next post on the website and in a video on my Youtube channels, I will explain how to do this. Anyone interested can handle it. For beginners learning website layout, this will be perfect.
 <br />
-<span style='white-space: pre'>By the way, if you want to get active site pages indexed, just type in <b>site:uzcoderblog.github.io</b></span>
+By the way, if you want to get active site pages indexed, just type in <b>site:uzcoderblog.github.io</b>
 
 | Yandex pics                         | Google pics                            |
 | ----------------------------------- | ----------------------------------- |
