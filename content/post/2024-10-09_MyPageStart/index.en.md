@@ -14,7 +14,7 @@ image = "2024-10-09.jpg"
 
 
 
-The website is finally launched. It is static and does not collect information about you. Except when you will be writing comments.
+The website is finally launched. It is static and and use Google Analytics and Yandex Webmaster
 <br />
 Everything is also free here. Perhaps an advertisement will appear occasionally. But there won't be much of it, and only in cases where the article is large.
 

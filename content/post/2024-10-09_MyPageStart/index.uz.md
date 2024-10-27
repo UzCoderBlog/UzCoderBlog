@@ -14,7 +14,7 @@ image = "2024-10-09.jpg"
 
 
 
-Sayt nihoyat ishga tushirildi. Sayt statik holda ishlaydi, shuning uchun siz haqingizda ma'lumot to'plamaydi. Sharh yozmoqchi bo'lganingizda holat bundan mustasno.
+Sayt nihoyat ishga tushirildi. Sayt statik holda ishlaydi, shuning Google Analytics va Yandex Webmasterni ishlatadi.
 <br />
 Bundan tashqari, hamma ma'lumotlar bepul. Ehtimol, vaqti-vaqti bilan reklama paydo bo'ladi. Ammo reklama juda kam bo'ladi.
 
